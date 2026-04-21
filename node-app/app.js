@@ -7,7 +7,7 @@ const PORT = 3000;
 
 // Route
 app.get('/', (req, res) => {
-  res.json({ message: "hello sachin your file successfully" });
+  res.json({ message: "hello om your file successfully depoyed" });
 });
 
 // Start server
